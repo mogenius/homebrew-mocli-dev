@@ -1,3 +1,3 @@
 # README
 
-Private releases of mocli for testing purposes.
+Dev releases of `mocli` for testing.
