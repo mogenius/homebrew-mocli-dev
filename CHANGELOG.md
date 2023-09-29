@@ -1,4 +1,11 @@
 
+### [1.3.10](https://github.com/mogenius/mocli/compare/v1.3.9...v1.3.10) (2023-09-29)
+
+
+### Bug Fixes
+
+* Makefile dev ([31ea852](https://github.com/mogenius/mocli/commit/31ea852d83ea71e8ad210e1ca5ad35db322c6c0b))
+
 ### [1.3.9](https://github.com/mogenius/mocli/compare/v1.3.8...v1.3.9) (2023-09-29)
 
 ### [1.3.8](https://github.com/mogenius/mocli/compare/v1.3.7...v1.3.8) (2023-09-29)
