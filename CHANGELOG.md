@@ -1,4 +1,28 @@
 
+## [1.4.0](https://github.com/mogenius/mocli/compare/v1.3.10...v1.4.0) (2023-10-12)
+
+
+### Features
+
+* Added CLI option for organization data retrieval. ([1235581](https://github.com/mogenius/mocli/commit/1235581c1e3935797c53132d013c6d2b6019bf09))
+* Added CLI option for project data retrieval. ([b9165a7](https://github.com/mogenius/mocli/commit/b9165a7d6f788e0466b6e6bf10c71eae5f3edc4e))
+* Added options for data retrieval right from CLI. ([b065440](https://github.com/mogenius/mocli/commit/b0654407dd3a5192e25a45792e0eec4f4ea5f0d7))
+* Added the option to differentiate IDs and names. ([3e5afef](https://github.com/mogenius/mocli/commit/3e5afef167243dfe0d889f15587b0cf1642fb381))
+
+
+### Bug Fixes
+
+* Adjusted command explainers. ([212b80e](https://github.com/mogenius/mocli/commit/212b80e264acd3fe9a26fd4407326fb2bf1bd3d3))
+* Adjusted logging format for TUI. ([4416f99](https://github.com/mogenius/mocli/commit/4416f99d273a30ea5f901e52f2692fca7dac4f77))
+* Better error handling. ([be2cc9c](https://github.com/mogenius/mocli/commit/be2cc9c2b0037b908a60b325b7882e9131a5b566))
+* Better modularization/isolation. ([85e3a3b](https://github.com/mogenius/mocli/commit/85e3a3bc18e9948171fda109dd4eda8d550d99f2))
+* Improved URL creation for model operations. ([f772871](https://github.com/mogenius/mocli/commit/f77287128ac93ac7a8a7099ecbf0c4b2442f38f5))
+* Introduced type-safety for query parameters during URL ([900b019](https://github.com/mogenius/mocli/commit/900b019f60ad191062eca09bfcf2e45becbf5209))
+* Minor changes. ([1c4c276](https://github.com/mogenius/mocli/commit/1c4c276af54eaeb8395402942a5936636b6f40f1))
+* Minor changes. ([c4975c2](https://github.com/mogenius/mocli/commit/c4975c20e47f0be3432c1463e6a69ff4807215b9))
+* Minor chnages to logging. ([cc18c95](https://github.com/mogenius/mocli/commit/cc18c9578360cd590bf18f4e2d15f6312030279c))
+* Renaming. ([48edddf](https://github.com/mogenius/mocli/commit/48edddfef86e3c09cb4ba08eea56ca84f73f9e57))
+
 ### [1.3.10](https://github.com/mogenius/mocli/compare/v1.3.9...v1.3.10) (2023-09-29)
 
 
