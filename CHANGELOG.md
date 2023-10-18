@@ -1,4 +1,12 @@
 
+### [1.5.2](https://github.com/mogenius/mocli/compare/v1.5.1...v1.5.2) (2023-10-18)
+
+
+### Bug Fixes
+
+* Much improved service logs: ([6fc0b01](https://github.com/mogenius/mocli/commit/6fc0b0111f2db1225a262dce0266ab90f704ff6e))
+* Windows fix for getting the terminal size. ([784cecb](https://github.com/mogenius/mocli/commit/784cecbe091f9a4733a542e8ffc36dcd2fb135ab))
+
 ### [1.5.1](https://github.com/mogenius/mocli/compare/v1.5.0...v1.5.1) (2023-10-18)
 
 ## [1.5.0](https://github.com/mogenius/mocli/compare/v1.4.1...v1.5.0) (2023-10-18)
