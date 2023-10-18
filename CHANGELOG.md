@@ -1,4 +1,16 @@
 
+## [1.5.0](https://github.com/mogenius/mocli/compare/v1.4.1...v1.5.0) (2023-10-18)
+
+
+### Features
+
+* Implemented basic service management into TUI. ([02ee2fe](https://github.com/mogenius/mocli/commit/02ee2fedc26927cb67507659c2c61f1b1561cbca))
+
+
+### Bug Fixes
+
+* Number rounding. ([2dfc4e6](https://github.com/mogenius/mocli/commit/2dfc4e644069aa2b5de30a9e1b309d458f07d640))
+
 ### [1.4.1](https://github.com/mogenius/mocli/compare/v1.4.0...v1.4.1) (2023-10-18)
 
 ## [1.4.0](https://github.com/mogenius/mocli/compare/v1.3.10...v1.4.0) (2023-10-12)
