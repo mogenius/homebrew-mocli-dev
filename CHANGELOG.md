@@ -1,4 +1,6 @@
 
+### [1.4.1](https://github.com/mogenius/mocli/compare/v1.4.0...v1.4.1) (2023-10-18)
+
 ## [1.4.0](https://github.com/mogenius/mocli/compare/v1.3.10...v1.4.0) (2023-10-12)
 
 
