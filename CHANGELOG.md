@@ -1,4 +1,11 @@
 
+### [1.5.3](https://github.com/mogenius/mocli/compare/v1.5.2...v1.5.3) (2023-10-26)
+
+
+### Bug Fixes
+
+* Added new items to the internal help page. ([7532224](https://github.com/mogenius/mocli/commit/75322249ff0cdc1b1c41213d7db4b878f276a0f3))
+
 ### [1.5.2](https://github.com/mogenius/mocli/compare/v1.5.1...v1.5.2) (2023-10-18)
 
 
