@@ -1,4 +1,51 @@
 
+### [1.6.4](https://github.com/mogenius/mocli/compare/v1.6.3...v1.6.4) (2023-10-31)
+
+
+### Bug Fixes
+
+* Platform agnostic window resizing. ([8eba201](https://github.com/mogenius/mocli/commit/8eba201c13b2609560fa7ce3cb8f17c5de7a10f2))
+
+### [1.6.3](https://github.com/mogenius/mocli/compare/v1.6.2...v1.6.3) (2023-10-30)
+
+
+### Bug Fixes
+
+* Minor fix for SIGWINCH. ([78901b9](https://github.com/mogenius/mocli/commit/78901b9ad1ca70197341a14c20ff1b3b10eaa2c6))
+
+### [1.6.2](https://github.com/mogenius/mocli/compare/v1.6.1...v1.6.2) (2023-10-30)
+
+
+### Bug Fixes
+
+* Momentary fix for Windows window resizing. ([bc4856b](https://github.com/mogenius/mocli/commit/bc4856b2640e0df621dbbdb027031826b80d46bc))
+
+### [1.6.1](https://github.com/mogenius/mocli/compare/v1.6.0...v1.6.1) (2023-10-30)
+
+
+### Bug Fixes
+
+* Minor changes. ([644079a](https://github.com/mogenius/mocli/commit/644079ae7d4db7505014e2449ad9499061c3b24b))
+
+## [1.6.0](https://github.com/mogenius/mocli/compare/v1.5.3...v1.6.0) (2023-10-30)
+
+
+### Features
+
+* Implemented shell access. ([5fc8215](https://github.com/mogenius/mocli/commit/5fc82157431f63a5d919d0f183d1b48de9379d56))
+
+
+### Bug Fixes
+
+* Fixed the echoeing problem. ([659c229](https://github.com/mogenius/mocli/commit/659c229b9fec0ead1c9a991fdda0633fb4d1b80f))
+* Improved shell access usage. ([3ae62a0](https://github.com/mogenius/mocli/commit/3ae62a07a4553d121fdc7b578576a0465f1fb3bf))
+* Improved upon shell access. ([530fb8b](https://github.com/mogenius/mocli/commit/530fb8b30b0d2afc4d310dd2a1df419980496d11))
+* Improvements to shell access. ([4b163ae](https://github.com/mogenius/mocli/commit/4b163ae5a857f14563c8dbd633a2b67b100fa5f8))
+* Minor change to metadata section. ([2592e4d](https://github.com/mogenius/mocli/commit/2592e4d1bb3b618a081e2441976c8e6291f91d53))
+* Minor changes. ([5e68e43](https://github.com/mogenius/mocli/commit/5e68e4312ac730ddd07e0bf7f4b9c75328175153))
+* More emojis and added shell access next to logs. ([43467d0](https://github.com/mogenius/mocli/commit/43467d04fad2cf90fa919f3490231c12cfa3410c))
+* Removed usage of `atomic`. ([e1ffcc3](https://github.com/mogenius/mocli/commit/e1ffcc3caefae9d1afda4d79bc0dfe3bbdbc39d0))
+
 ### [1.5.3](https://github.com/mogenius/mocli/compare/v1.5.2...v1.5.3) (2023-10-26)
 
 
