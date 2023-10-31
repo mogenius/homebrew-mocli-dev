@@ -1,4 +1,13 @@
 
+### [1.6.5](https://github.com/mogenius/mocli/compare/v1.6.4...v1.6.5) (2023-10-31)
+
+
+### Bug Fixes
+
+* Minor change. ([2fd34f5](https://github.com/mogenius/mocli/commit/2fd34f55380d4c58c528e1b2faf6ec6cceae5309))
+* Minor change. [skip ci] ([914b91f](https://github.com/mogenius/mocli/commit/914b91fea54cbea250117d158fe820393149f825))
+* Reverted back to reading line by line to solve echoing. ([e776c15](https://github.com/mogenius/mocli/commit/e776c158211d77f5b6cd603340b53833e1df1488))
+
 ### [1.6.4](https://github.com/mogenius/mocli/compare/v1.6.3...v1.6.4) (2023-10-31)
 
 
