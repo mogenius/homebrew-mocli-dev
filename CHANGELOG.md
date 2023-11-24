@@ -1,4 +1,16 @@
 
+### [1.6.10](https://github.com/mogenius/mocli/compare/v1.6.9...v1.6.10) (2023-11-24)
+
+
+### Bug Fixes
+
+* added add cluster. ([23bc98d](https://github.com/mogenius/mocli/commit/23bc98dbf7c10aa4e7d81d7bee21f9a33781c8b0))
+* added add cluster. ([2b7464b](https://github.com/mogenius/mocli/commit/2b7464b4c24ad5f0dc3bc0c4ded37954752787f4))
+* improved win admin handling. ([569ea53](https://github.com/mogenius/mocli/commit/569ea53cc3bd5c964ee1056b87f9c3a36027fa2d))
+* Minor cosmetic changes. ([ee5e2c0](https://github.com/mogenius/mocli/commit/ee5e2c0c850a2b9151ffc49ebf6130b89410fa8f))
+* minor improvements. ([c5599e9](https://github.com/mogenius/mocli/commit/c5599e9644a6b303cb40eeb419c72dc291e00a39))
+* windows platform specific implementation added. ([6c4aa83](https://github.com/mogenius/mocli/commit/6c4aa835799f0460ccf176ec0805ceb09ffff290))
+
 ### [1.6.7](https://github.com/mogenius/mocli/compare/v1.6.6...v1.6.7) (2023-11-07)
 
 
