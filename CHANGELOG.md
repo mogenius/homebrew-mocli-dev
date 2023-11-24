@@ -1,4 +1,11 @@
 
+### [1.6.12](https://github.com/mogenius/mocli/compare/v1.6.11...v1.6.12) (2023-11-24)
+
+
+### Bug Fixes
+
+* Minor change. ([87bc264](https://github.com/mogenius/mocli/commit/87bc26476d9111e42094bc7b56bc08724ad43321))
+
 ### [1.6.11](https://github.com/mogenius/mocli/compare/v1.6.10...v1.6.11) (2023-11-24)
 
 
