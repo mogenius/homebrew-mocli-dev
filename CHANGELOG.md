@@ -1,4 +1,11 @@
 
+### [1.6.11](https://github.com/mogenius/mocli/compare/v1.6.10...v1.6.11) (2023-11-24)
+
+
+### Bug Fixes
+
+* Update release-dev.sh ([cd10f34](https://github.com/mogenius/mocli/commit/cd10f345fb5381c5b6faf5707c801543e623d5f0))
+
 ### [1.6.10](https://github.com/mogenius/mocli/compare/v1.6.9...v1.6.10) (2023-11-24)
 
 
