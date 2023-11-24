@@ -1,4 +1,11 @@
 
+### [1.6.13](https://github.com/mogenius/mocli/compare/v1.6.12...v1.6.13) (2023-11-24)
+
+
+### Bug Fixes
+
+* Minor fix for instance logs. ([36458fe](https://github.com/mogenius/mocli/commit/36458fe5ec114b1f39bb1d06f4cbfab14132782d))
+
 ### [1.6.12](https://github.com/mogenius/mocli/compare/v1.6.11...v1.6.12) (2023-11-24)
 
 
