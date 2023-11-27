@@ -1,4 +1,11 @@
 
+### [1.6.15](https://github.com/mogenius/mocli/compare/v1.6.14...v1.6.15) (2023-11-27)
+
+
+### Bug Fixes
+
+* Minor change. ([c3af105](https://github.com/mogenius/mocli/commit/c3af105d8563845aa1e2873c18731253dd1ef14b))
+
 ### [1.6.14](https://github.com/mogenius/mocli/compare/v1.6.13...v1.6.14) (2023-11-27)
 
 
