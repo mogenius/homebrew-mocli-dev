@@ -1,4 +1,11 @@
 
+### [1.6.14](https://github.com/mogenius/mocli/compare/v1.6.13...v1.6.14) (2023-11-27)
+
+
+### Bug Fixes
+
+* Changes to config handling. ([09abc2e](https://github.com/mogenius/mocli/commit/09abc2e1cc6f91ef97d47aaafff2efc414e351c1))
+
 ### [1.6.13](https://github.com/mogenius/mocli/compare/v1.6.12...v1.6.13) (2023-11-24)
 
 
