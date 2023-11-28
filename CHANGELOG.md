@@ -1,4 +1,11 @@
 
+### [1.6.18](https://github.com/mogenius/mocli/compare/v1.6.17...v1.6.18) (2023-11-28)
+
+
+### Bug Fixes
+
+* improved local dev setup script. ([580b570](https://github.com/mogenius/mocli/commit/580b57042d9d05c04da355d4a79fed961162a833))
+
 ### [1.6.17](https://github.com/mogenius/mocli/compare/v1.6.16...v1.6.17) (2023-11-27)
 
 ### [1.6.8](https://github.com/mogenius/mocli/compare/v1.6.7...v1.6.8) (2023-11-10)

@@ -1,14 +1,14 @@
 {
-    "version": "1.6.17-dev",
+    "version": "1.6.18-dev",
     "license": "UNKNOWN",
     "homepage": "https://mocli.dev",
     "bin": "mocli.exe",
-    "pre_install": "Rename-Item \"$dir\\mocli-dev-v1.6.17-dev-windows-amd64\" mocli.exe",
+    "pre_install": "Rename-Item \"$dir\\mocli-dev-v1.6.18-dev-windows-amd64\" mocli.exe",
     "description": "mogenius cli!",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mogenius/homebrew-mocli-dev/releases/download/v1.6.17-dev/mocli-dev-v1.6.17-dev-windows-amd64",
-            "hash": "07c9a8d20cf3f5485a73d4e8f523c21efae997bef133cda77b8da582e9d80096"
+            "url": "https://github.com/mogenius/homebrew-mocli-dev/releases/download/v1.6.18-dev/mocli-dev-v1.6.18-dev-windows-amd64",
+            "hash": "1774374c139fd6ff23c029b4250bd82b343797384b4803ec24f069a68b184bd4"
         }
     }
 }
