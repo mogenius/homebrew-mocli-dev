@@ -1,4 +1,21 @@
 
+## [1.7.0](https://github.com/mogenius/mocli/compare/v1.6.18...v1.7.0) (2023-11-30)
+
+
+### Features
+
+* Added the very basic of service editing. ([b6804e2](https://github.com/mogenius/mocli/commit/b6804e2fd068affaa55afdf1b6c4a674cb7e620f))
+* Enabled displaying of some service data within YAML. ([834a577](https://github.com/mogenius/mocli/commit/834a577fd89dd41bdaae4f316f4465a6b4d6fc94))
+* Implemented basic YAML file edit. ([b10d984](https://github.com/mogenius/mocli/commit/b10d9848cdd9b3293047c38abe6623b071a469aa))
+
+
+### Bug Fixes
+
+* Improved edit service file generation. ([bbef890](https://github.com/mogenius/mocli/commit/bbef89073f025d74ecdb54c28d0e675110b647f6))
+* Minor changes. ([963c28f](https://github.com/mogenius/mocli/commit/963c28fa97f96059f6d43ea3844a73b4d301eb6e))
+* Minor changes. ([3a8fc8e](https://github.com/mogenius/mocli/commit/3a8fc8e73ed5d9b24c07e7740dc34ec94865aaa1))
+* Minor changes. ([02a2ca4](https://github.com/mogenius/mocli/commit/02a2ca49906bd3374d99c7f8667dca13d05e5206))
+
 ### [1.6.18](https://github.com/mogenius/mocli/compare/v1.6.17...v1.6.18) (2023-11-28)
 
 
