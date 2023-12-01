@@ -1,4 +1,12 @@
 
+### [1.7.4](https://github.com/mogenius/mocli/compare/v1.7.3...v1.7.4) (2023-12-01)
+
+
+### Bug Fixes
+
+* Improved auth process. ([4777ccb](https://github.com/mogenius/mocli/commit/4777ccb29ecd0ff34a3be47060428d3ea5e6c6f4))
+* Minor changes. ([55f7247](https://github.com/mogenius/mocli/commit/55f72472435fb7cdd82654b9ea894f45a043902e))
+
 ### [1.7.3](https://github.com/mogenius/mocli/compare/v1.7.2...v1.7.3) (2023-12-01)
 
 
