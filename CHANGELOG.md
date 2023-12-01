@@ -1,4 +1,11 @@
 
+### [1.7.3](https://github.com/mogenius/mocli/compare/v1.7.2...v1.7.3) (2023-12-01)
+
+
+### Bug Fixes
+
+* Improved organisation. ([0df95fd](https://github.com/mogenius/mocli/commit/0df95fd9ec26531443a7d82d0ad3e27d9b76c51a))
+
 ### [1.7.2](https://github.com/mogenius/mocli/compare/v1.7.1...v1.7.2) (2023-12-01)
 
 
