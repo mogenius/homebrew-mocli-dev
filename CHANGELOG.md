@@ -1,4 +1,12 @@
 
+### [1.7.2](https://github.com/mogenius/mocli/compare/v1.7.1...v1.7.2) (2023-12-01)
+
+
+### Bug Fixes
+
+* Organisational change. ([e480b5e](https://github.com/mogenius/mocli/commit/e480b5ed68b07e8914f11677e76f873636b62048))
+* VArious organisational changes. ([9b750ce](https://github.com/mogenius/mocli/commit/9b750ce063884ef01e881cb165063b304b8a7cf0))
+
 ### [1.7.1](https://github.com/mogenius/mocli/compare/v1.7.0...v1.7.1) (2023-12-01)
 
 
