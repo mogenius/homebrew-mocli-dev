@@ -1,4 +1,11 @@
 
+### [1.7.5](https://github.com/mogenius/mocli/compare/v1.7.4...v1.7.5) (2023-12-07)
+
+
+### Bug Fixes
+
+* Minor fix. ([43ce41e](https://github.com/mogenius/mocli/commit/43ce41efbc62b0258eb8a8f54f50d9009cb955d6))
+
 ### [1.7.4](https://github.com/mogenius/mocli/compare/v1.7.3...v1.7.4) (2023-12-01)
 
 
