@@ -11,10 +11,10 @@ class MocliDev < Formula
   on_macos do
     if Hardware::CPU.arm?
       url "https://github.com/mogenius/homebrew-mocli-dev/releases/download/v1.7.7-dev/mocli-dev-v1.7.7-dev-darwin-arm64.tar.gz"
-      sha256 "0b2828ec4b67beb4bf71dc62a78fd5e6f9e38147eb33f02c93e2d1935c540df8"
+      sha256 "39c677fc47a65f054db64b3d23fc4daf7bc85eabe15f57dae345e4e75ea54592"
     elsif Hardware::CPU.intel?
       url "https://github.com/mogenius/homebrew-mocli-dev/releases/download/v1.7.7-dev/mocli-dev-v1.7.7-dev-darwin-amd64.tar.gz"
-      sha256 "149c6259e82943815c5496dd6149f1beee9d3cfefcf9f65e955caf18d3c6a942"
+      sha256 "0f421419ea445b35a582377110bef386391f61eee5d1631e1e13889db90e5a39"
     end
   end
 
@@ -22,18 +22,18 @@ class MocliDev < Formula
     if Hardware::CPU.intel?
       if Hardware::CPU.is_64_bit?
         url "https://github.com/mogenius/homebrew-mocli-dev/releases/download/v1.7.7-dev/mocli-dev-v1.7.7-dev-linux-amd64.tar.gz"
-        sha256 "de2c21027ed8597e6df5d8d5a23ae952fd16d2f6df438715ff3fef8211fe2cf3"
+        sha256 "81f64044b0f69eb4fa3a716c9ec17ef4ef8a02633145905c8519e692bfe26cad"
       else
         url "https://github.com/mogenius/homebrew-mocli-dev/releases/download/v1.7.7-dev/mocli-dev-v1.7.7-dev-linux-386.tar.gz"
-        sha256 "5071a73757449e66c631fd9493faa309ebc69b27915c7bca618272828b08df50"
+        sha256 "2bcddc4a62c3619c7f80737d4f93d7ee315ba165f8fc73c847addc351e80df23"
       end
     elif Hardware::CPU.arm?
       if Hardware::CPU.is_64_bit?
         url "https://github.com/mogenius/homebrew-mocli-dev/releases/download/v1.7.7-dev/mocli-dev-v1.7.7-dev-linux-arm64.tar.gz"
-        sha256 "9786826ef590b63d37d8a021a07ab8afc3ef9beae3a133568691dbf72f669c51"
+        sha256 "6dc487c96b53b24fe21bbaad9bbb4ea8d916593d34690bc016d44fbcbd525357"
       else
         url "https://github.com/mogenius/homebrew-mocli-dev/releases/download/v1.7.7-dev/mocli-dev-v1.7.7-dev-linux-arm.tar.gz"
-        sha256 "f6383c3b4239eddc17fda02246e567cb8b64c83ef4805ad7eb5aad08202bc0e6"
+        sha256 "62816584ef40db88466b8da1528d9c6bfa0d0dd157370e74237279018311cdf4"
       end
     end
   end

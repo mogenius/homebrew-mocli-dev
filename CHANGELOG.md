@@ -13,6 +13,7 @@ All notable changes to this project will be documented in this file. See [standa
 * pipeline ([9c6d33c](https://github.com/mogenius/mocli/commit/9c6d33c85fc6d4c5665d1bdf4f206fa544a85135))
 * pipeline ([413c939](https://github.com/mogenius/mocli/commit/413c939d365c215a8d6dc03936b957b44d200111))
 * pipeline ([5175895](https://github.com/mogenius/mocli/commit/51758959ab890a9ddd3920e8534c8f755f128b49))
+* Typo fixes. ([85b9061](https://github.com/mogenius/mocli/commit/85b9061b9d6214d301d3da9ae37877e51ce0ed3d))
 * Update develop.yml ([15d387e](https://github.com/mogenius/mocli/commit/15d387efb9705facd3bf2b4b0f32633960c16379))
 
 ### [1.7.6](https://github.com/mogenius/mocli/compare/v1.7.5...v1.7.6) (2023-12-07)
