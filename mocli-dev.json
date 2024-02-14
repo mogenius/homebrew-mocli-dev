@@ -8,7 +8,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/mogenius/homebrew-mocli-dev/releases/download/v1.7.7-dev/mocli-dev-v1.7.7-dev-windows-amd64",
-            "hash": "df87c25d9896624ea7b2b19ccfce3cd8f38e14392792a3d14e04ed35b139d527"
+            "hash": "c9e2bc7a77965e29a946e0ea10ecac702792c9470890cf67804d7e58f3cee1f3"
         }
     }
 }
