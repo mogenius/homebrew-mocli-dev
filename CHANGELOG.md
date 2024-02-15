@@ -2,13 +2,23 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-### [1.7.7](https://github.com/mogenius/mocli/compare/v1.7.6...v1.7.7) (2024-02-14)
+### [1.7.7-dev.1](https://github.com/mogenius/mocli/compare/v1.7.7-dev.0...v1.7.7-dev.1) (2024-02-15)
 
 
 ### Bug Fixes
 
+* Minor change. ([5368c3e](https://github.com/mogenius/mocli/commit/5368c3ef7f7fc90c532bc5a97823d3fcf86a963d))
+
+### [1.7.7-dev.0](https://github.com/mogenius/mocli/compare/v1.7.6...v1.7.7-dev.0) (2024-02-15)
+
+
+### Bug Fixes
+
+* Build pipeline improvements. ([ff967e4](https://github.com/mogenius/mocli/commit/ff967e47063ea8ddd896495e1e8f4a298960f80d))
 * cluster connect fixes. ([bfbbd73](https://github.com/mogenius/mocli/commit/bfbbd73b899716f3d11cf9cafb4bbf57b54cece2))
+* Disabled opening browser during login if Safari is default. ([326190d](https://github.com/mogenius/mocli/commit/326190d377be8be8d88fa8fa3f28e42b08c7a966))
 * Minor change. ([77d646f](https://github.com/mogenius/mocli/commit/77d646fe47617043c244ef4db0f5d84ea97208fb))
+* Minor changes. ([dc42c7b](https://github.com/mogenius/mocli/commit/dc42c7b1fa01c1fd150f44df940409e835ee9b3e))
 * Minor fix. ([62c5990](https://github.com/mogenius/mocli/commit/62c599058c166736dddec7d9b402053a6b902d6e))
 * pipeline ([59469ed](https://github.com/mogenius/mocli/commit/59469edfd879baf91500e5a8ab915f9a3aab9787))
 * pipeline ([9c6d33c](https://github.com/mogenius/mocli/commit/9c6d33c85fc6d4c5665d1bdf4f206fa544a85135))
@@ -18,6 +28,33 @@ All notable changes to this project will be documented in this file. See [standa
 * Update develop.yml ([15d387e](https://github.com/mogenius/mocli/commit/15d387efb9705facd3bf2b4b0f32633960c16379))
 * updated pipeline. ([6e216a3](https://github.com/mogenius/mocli/commit/6e216a3321c7822f800c2f78d8e799bba02c83f1))
 * version bump. ([6681914](https://github.com/mogenius/mocli/commit/6681914ef3e08fcc3fdbd2e7a0a5afa8ca74de37))
+* Version bump. ([89dc8ae](https://github.com/mogenius/mocli/commit/89dc8ae34decfcfdfe600936a0ab49932b92d382))
+* Version bump. ([ee31666](https://github.com/mogenius/mocli/commit/ee3166664750e0192f2819b12c6d2ed05d47b2bb))
+
+### [1.7.8](https://mogenius///compare/v1.7.7...v1.7.8) (2024-02-15)
+
+### [1.7.8](https://mogenius///compare/v1.7.7...v1.7.8) (2024-02-15)
+
+### [1.7.7](https://mogenius///compare/v1.7.6...v1.7.7) (2024-02-15)
+
+
+### Bug Fixes
+
+* cluster connect fixes. ([bfbbd73](https://mogenius///commit/bfbbd73b899716f3d11cf9cafb4bbf57b54cece2))
+* Disabled opening browser during login if Safari is default. ([326190d](https://mogenius///commit/326190d377be8be8d88fa8fa3f28e42b08c7a966))
+* Minor change. ([77d646f](https://mogenius///commit/77d646fe47617043c244ef4db0f5d84ea97208fb))
+* Minor changes. ([dc42c7b](https://mogenius///commit/dc42c7b1fa01c1fd150f44df940409e835ee9b3e))
+* Minor fix. ([62c5990](https://mogenius///commit/62c599058c166736dddec7d9b402053a6b902d6e))
+* pipeline ([59469ed](https://mogenius///commit/59469edfd879baf91500e5a8ab915f9a3aab9787))
+* pipeline ([9c6d33c](https://mogenius///commit/9c6d33c85fc6d4c5665d1bdf4f206fa544a85135))
+* pipeline ([413c939](https://mogenius///commit/413c939d365c215a8d6dc03936b957b44d200111))
+* pipeline ([5175895](https://mogenius///commit/51758959ab890a9ddd3920e8534c8f755f128b49))
+* Typo fixes. ([85b9061](https://mogenius///commit/85b9061b9d6214d301d3da9ae37877e51ce0ed3d))
+* Update develop.yml ([15d387e](https://mogenius///commit/15d387efb9705facd3bf2b4b0f32633960c16379))
+* updated pipeline. ([6e216a3](https://mogenius///commit/6e216a3321c7822f800c2f78d8e799bba02c83f1))
+* version bump. ([6681914](https://mogenius///commit/6681914ef3e08fcc3fdbd2e7a0a5afa8ca74de37))
+* Version bump. ([89dc8ae](https://mogenius///commit/89dc8ae34decfcfdfe600936a0ab49932b92d382))
+* Version bump. ([ee31666](https://mogenius///commit/ee3166664750e0192f2819b12c6d2ed05d47b2bb))
 
 ### [1.7.6](https://github.com/mogenius/mocli/compare/v1.7.5...v1.7.6) (2023-12-07)
 
