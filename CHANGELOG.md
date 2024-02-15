@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.7.7-dev.2](https://github.com/mogenius/mocli/compare/v1.7.7-dev.1...v1.7.7-dev.2) (2024-02-15)
+
+
+### Bug Fixes
+
+* Minor change. ([29eb8a6](https://github.com/mogenius/mocli/commit/29eb8a64ecd120c3259768ef0d03bf40a7889f93))
+
 ### [1.7.7-dev.1](https://github.com/mogenius/mocli/compare/v1.7.7-dev.0...v1.7.7-dev.1) (2024-02-15)
 
 
