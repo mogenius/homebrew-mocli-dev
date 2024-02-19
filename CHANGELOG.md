@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.8.0-dev.4](https://github.com/mogenius/mocli/compare/v1.8.0-dev.3...v1.8.0-dev.4) (2024-02-19)
+
+
+### Bug Fixes
+
+* Minor change. ([3bdfad7](https://github.com/mogenius/mocli/commit/3bdfad7135263a490017d60dee3b4ac43615e26c))
+* Minor metadata changes. ([52e7f96](https://github.com/mogenius/mocli/commit/52e7f96dc0438f99906b036f8339584a665993a6))
+* Reflection of service edit changes afterwards. ([d365df6](https://github.com/mogenius/mocli/commit/d365df60d4400c9f3f5fe00e97267d52eb676e3e))
+
 ## [1.8.0-dev.3](https://github.com/mogenius/mocli/compare/v1.8.0-dev.2...v1.8.0-dev.3) (2024-02-19)
 
 
