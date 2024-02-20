@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.8.0-dev.5](https://github.com/mogenius/mocli/compare/v1.8.0-dev.4...v1.8.0-dev.5) (2024-02-20)
+
+
+### Bug Fixes
+
+* Properly enabled empty list functionality. ([1fe8f61](https://github.com/mogenius/mocli/commit/1fe8f610b7bca42f327de80db71304521c2bf1b8))
+
 ## [1.8.0-dev.4](https://github.com/mogenius/mocli/compare/v1.8.0-dev.3...v1.8.0-dev.4) (2024-02-19)
 
 
