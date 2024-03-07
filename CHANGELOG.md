@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.8.0-dev.7](https://github.com/mogenius/mocli/compare/v1.8.0-dev.6...v1.8.0-dev.7) (2024-03-07)
+
+
+### Bug Fixes
+
+* Minor Brew formula fix. ([273b94d](https://github.com/mogenius/mocli/commit/273b94daeb617d20a206edfc2090ab2e5dbf30e5))
+
 ## [1.8.0-dev.6](https://github.com/mogenius/mocli/compare/v1.8.0-dev.5...v1.8.0-dev.6) (2024-03-04)
 
 ### [1.7.8](https://github.com/mogenius/mocli/compare/v1.7.6...v1.7.8) (2024-02-14)
