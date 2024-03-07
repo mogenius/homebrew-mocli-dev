@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.8.0-dev.8](https://github.com/mogenius/mocli/compare/v1.8.0-dev.7...v1.8.0-dev.8) (2024-03-07)
+
+
+### Features
+
+* Implemented retrieving vulnerability scan. ([6232036](https://github.com/mogenius/mocli/commit/6232036bc4d606cb246b1e5b8b6a9effec2365f1))
+
+
+### Bug Fixes
+
+* Adjusted for API changes. ([9210dee](https://github.com/mogenius/mocli/commit/9210deef80a21bce12943a6e2955da77de50e6ec))
+* Adjusted general outline. ([c878610](https://github.com/mogenius/mocli/commit/c8786104626dcf8d9f56f3e3dacce01af5be8298))
+* Adjusted list view metadata. ([8634d15](https://github.com/mogenius/mocli/commit/8634d15e79d3e2ddf229339ea87cdb6a06908538))
+* Adjusted new table view. ([01ab90f](https://github.com/mogenius/mocli/commit/01ab90f0cd65729ee265ccb2480d5ffd198161e5))
+* Changes to the presentation of metadata in tables. ([ae85089](https://github.com/mogenius/mocli/commit/ae850891d4f4b4aa6a52506cd005ac7b27db9d23))
+* Made pod logs work. ([fe2ef97](https://github.com/mogenius/mocli/commit/fe2ef97bbb118240eaa812eb6a6487b390d5b1b7))
+* Minor changes. ([8a4e1d0](https://github.com/mogenius/mocli/commit/8a4e1d0288a6bd1fa43283b01472c2071181c366))
+* Minor changes. ([f2cb71d](https://github.com/mogenius/mocli/commit/f2cb71da69441429890df26bbf1e7a5bf4d2debd))
+* Organizational changes. ([f812c6d](https://github.com/mogenius/mocli/commit/f812c6d0bfb64dc7b90245c5e3040c46b99cd0d6))
+
 ## [1.8.0-dev.7](https://github.com/mogenius/mocli/compare/v1.8.0-dev.6...v1.8.0-dev.7) (2024-03-07)
 
 
