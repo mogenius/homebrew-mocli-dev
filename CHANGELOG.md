@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.8.0-dev.9](https://github.com/mogenius/mocli/compare/v1.8.0-dev.8...v1.8.0-dev.9) (2024-03-19)
+
+
+### Bug Fixes
+
+* Adjusted metadata. ([fa8d3a4](https://github.com/mogenius/mocli/commit/fa8d3a4d8e67a6a9e0a857d656887912ad86a70e))
+* Adjustments to log retrieval. ([1e4af86](https://github.com/mogenius/mocli/commit/1e4af86f6a04e86c8160ddb76d977b300fa7d542))
+* Adjustments to the list view navigation logic. ([fd7ba44](https://github.com/mogenius/mocli/commit/fd7ba44ccf45bc6b402e406689d4ebbae87df191))
+* Minor adjustment to displaying metadata. ([8960708](https://github.com/mogenius/mocli/commit/896070811dbbcd19db7becffb2946afc5725b5c9))
+* Minor changes. ([f382bb3](https://github.com/mogenius/mocli/commit/f382bb3c8808dbd94a28704784188b79f4f88c79))
+* Properly integrated service status items API. ([439213d](https://github.com/mogenius/mocli/commit/439213d913fa9b7a61ed702a8c28ddb41981c404))
+* Simplified and improved table metadata logic. ([b9aedf9](https://github.com/mogenius/mocli/commit/b9aedf96789a2e80f6d37e7c2ce877193c04126d))
+
 ## [1.8.0-dev.8](https://github.com/mogenius/mocli/compare/v1.8.0-dev.7...v1.8.0-dev.8) (2024-03-07)
 
 
