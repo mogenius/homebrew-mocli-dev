@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.8.0-dev.10](https://github.com/mogenius/mocli/compare/v1.8.0-dev.9...v1.8.0-dev.10) (2024-03-22)
+
+
+### Bug Fixes
+
+* Major refactor. ([1957214](https://github.com/mogenius/mocli/commit/1957214f4c0142669664fec7e436a566e5857194))
+* Mended the new auth package. ([95d77be](https://github.com/mogenius/mocli/commit/95d77beb93b542801ceb66fc77423e5f8dff8f4b))
+
 ## [1.8.0-dev.9](https://github.com/mogenius/mocli/compare/v1.8.0-dev.8...v1.8.0-dev.9) (2024-03-19)
 
 
