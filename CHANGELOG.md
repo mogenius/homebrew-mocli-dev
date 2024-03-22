@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.8.0-dev.11](https://github.com/mogenius/mocli/compare/v1.8.0-dev.10...v1.8.0-dev.11) (2024-03-22)
+
+
+### Bug Fixes
+
+* Adjusted log list. ([b9d36f0](https://github.com/mogenius/mocli/commit/b9d36f045bacd61f46dabe1500fabb39f550711e))
+* Improved metedata section for shell access. ([8d8ea4a](https://github.com/mogenius/mocli/commit/8d8ea4ac75936a3f1e692b0175ad400334a0427a))
+* Minor adjustment to logging. ([5d5c7c2](https://github.com/mogenius/mocli/commit/5d5c7c2361ed51dfc0a72c3102318789d789ce86))
+
 ## [1.8.0-dev.10](https://github.com/mogenius/mocli/compare/v1.8.0-dev.9...v1.8.0-dev.10) (2024-03-22)
 
 
