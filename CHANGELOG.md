@@ -2,6 +2,36 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.8.0-dev.15](https://github.com/mogenius/mocli/compare/v1.8.0-dev.14...v1.8.0-dev.15) (2024-04-30)
+
+
+### Bug Fixes
+
+* remove systray icon ([754efb8](https://github.com/mogenius/mocli/commit/754efb888b146008d61dab37030c932f3887ba69))
+
+## [1.8.0-dev.14](https://github.com/mogenius/mocli/compare/v1.8.0-dev.13...v1.8.0-dev.14) (2024-04-30)
+
+
+### Bug Fixes
+
+* build tags for systray icon ([c19e64f](https://github.com/mogenius/mocli/commit/c19e64f5881e2df6646a390b9ba7ba84eee571ad))
+
+## [1.8.0-dev.13](https://github.com/mogenius/mocli/compare/v1.8.0-dev.12...v1.8.0-dev.13) (2024-04-30)
+
+
+### Bug Fixes
+
+* enable presentMetadataShellAccess ([9a08d92](https://github.com/mogenius/mocli/commit/9a08d92de4a7cf66501de5acdf190d5ebf4bbd89))
+* improve status, add spinner ([b6e1caa](https://github.com/mogenius/mocli/commit/b6e1caad1c10bf2df40a46839c108d073b4c48e8))
+* pod logs and tty ([5ed637a](https://github.com/mogenius/mocli/commit/5ed637a2ce07abf5ab31495d2bd28d12118dfa3f))
+
+## [1.8.0-dev.12](https://github.com/mogenius/mocli/compare/v1.8.0-dev.11...v1.8.0-dev.12) (2024-04-22)
+
+
+### Bug Fixes
+
+* minor fix. ([3d37dca](https://github.com/mogenius/mocli/commit/3d37dca392c59906422d57540b1627aedc8e90f7))
+
 ## [1.8.0-dev.11](https://github.com/mogenius/mocli/compare/v1.8.0-dev.10...v1.8.0-dev.11) (2024-03-22)
 
 
