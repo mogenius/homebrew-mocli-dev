@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.8.0-dev.16](https://github.com/mogenius/mocli/compare/v1.8.0-dev.15...v1.8.0-dev.16) (2024-05-28)
+
+
+### Bug Fixes
+
+* simplify ([a9b0024](https://github.com/mogenius/mocli/commit/a9b00247d61eb1e8255de3f41ecb96598dec7898))
+* update github action/checkout ([2f096e3](https://github.com/mogenius/mocli/commit/2f096e3fd03da8d8d0eb00c04ca8d085e80343b9))
+
 ## [1.8.0-dev.15](https://github.com/mogenius/mocli/compare/v1.8.0-dev.14...v1.8.0-dev.15) (2024-04-30)
 
 
