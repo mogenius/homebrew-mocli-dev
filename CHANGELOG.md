@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.8.1-dev.1](https://github.com/mogenius/mocli/compare/v1.8.1-dev.0...v1.8.1-dev.1) (2024-10-15)
+
+
+### Bug Fixes
+
+* use the "ip" command to set aliasing ([4a71925](https://github.com/mogenius/mocli/commit/4a7192562f0d6066bcf39349bfe50ba73e3a3739))
+
 ### [1.8.1-dev.0](https://github.com/mogenius/mocli/compare/v1.8.0...v1.8.1-dev.0) (2024-10-15)
 
 
