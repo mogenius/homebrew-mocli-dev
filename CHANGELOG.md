@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.8.1-dev.0](https://github.com/mogenius/mocli/compare/v1.8.0...v1.8.1-dev.0) (2024-10-15)
+
+
+### Bug Fixes
+
+* improve windows usage of cluster local dev setup. ([a0f6cc8](https://github.com/mogenius/mocli/commit/a0f6cc88870f2d9a4ab016386cf203cbe3d03a06))
+
+## [1.8.0](https://github.com/mogenius/mocli/compare/v1.8.0-dev.18...v1.8.0) (2024-05-28)
+
 ## [1.8.0-dev.18](https://github.com/mogenius/mocli/compare/v1.8.0-dev.17...v1.8.0-dev.18) (2024-05-28)
 
 
