@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.8.1-dev.3](https://github.com/mogenius/mocli/compare/v1.8.1-dev.2...v1.8.1-dev.3) (2024-10-16)
+
+
+### Bug Fixes
+
+* added checks. ([9831430](https://github.com/mogenius/mocli/commit/9831430a79ac996d76c7004d22592f6aeac0a8f9))
+* improved multi-context envvars. ([9b6eb37](https://github.com/mogenius/mocli/commit/9b6eb374dcaa8a2768e2c8531f57838404c81881))
+* multi os support improved. ([2f72a2c](https://github.com/mogenius/mocli/commit/2f72a2c618e0920cd556faee9daefbeab54afe25))
+* removed bash and used sh to improve compatibility. ([b50a001](https://github.com/mogenius/mocli/commit/b50a00188f24e16b1e48e04bf54a12359bb6bd5c))
+
 ### [1.8.1-dev.2](https://github.com/mogenius/mocli/compare/v1.8.1-dev.1...v1.8.1-dev.2) (2024-10-16)
 
 
