@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.8.2-dev.1](https://github.com/mogenius/mocli/compare/v1.8.2-dev.0...v1.8.2-dev.1) (2024-10-22)
+
+
+### Bug Fixes
+
+* initialize networkinterfaces ([35dcd60](https://github.com/mogenius/mocli/commit/35dcd6082f7494abcb4ca1a71476f138d9e73636))
+
+### [1.8.2-dev.0](https://github.com/mogenius/mocli/compare/v1.8.1-dev.3...v1.8.2-dev.0) (2024-10-16)
+
+### [1.8.1](https://github.com/mogenius/mocli/compare/v1.8.1-dev.2...v1.8.1) (2024-10-16)
+
+### [1.8.1](https://github.com/mogenius/mocli/compare/v1.8.0...v1.8.1) (2024-10-16)
+
 ### [1.8.1-dev.3](https://github.com/mogenius/mocli/compare/v1.8.1-dev.2...v1.8.1-dev.3) (2024-10-16)
 
 
