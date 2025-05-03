@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.8.2-dev.2](https://github.com/mogenius/mocli/compare/v1.8.2-dev.1...v1.8.2-dev.2) (2025-05-03)
+
+
+### Bug Fixes
+
+* **deps:** update github.com/rivo/tview digest to 0c592cd ([d956c85](https://github.com/mogenius/mocli/commit/d956c85a2fdbb7a3e8f6eecc19415973b43a1d7e))
+
 ### [1.8.2-dev.1](https://github.com/mogenius/mocli/compare/v1.8.2-dev.0...v1.8.2-dev.1) (2024-10-22)
 
 
