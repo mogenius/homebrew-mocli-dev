@@ -2,6 +2,71 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.8.2-dev.8](https://github.com/mogenius/mocli/compare/v1.8.2-dev.7...v1.8.2-dev.8) (2025-11-25)
+
+
+### Bug Fixes
+
+* build fix. ([3dc0934](https://github.com/mogenius/mocli/commit/3dc0934742bf98d4fe039168716e82bb98431691))
+
+### [1.8.2-dev.7](https://github.com/mogenius/mocli/compare/v1.8.2-dev.6...v1.8.2-dev.7) (2025-11-25)
+
+
+### Bug Fixes
+
+* build fix. ([d60b7ad](https://github.com/mogenius/mocli/commit/d60b7adef7fc2ccb8e415552f8d928e6d655e6be))
+* build fix. ([c74ab71](https://github.com/mogenius/mocli/commit/c74ab71e3434c520acdb875deb40a6ff3193b09d))
+* **deps:** update module github.com/go-playground/validator/v10 to v10.28.0 ([37a09d0](https://github.com/mogenius/mocli/commit/37a09d01042158b4b4f085787c0ef4724949bd9a))
+* **deps:** update module k8s.io/client-go to v0.34.2 ([1c77124](https://github.com/mogenius/mocli/commit/1c77124f26eea1decf87461eb29bfdf91ff7c841))
+
+### [1.8.2-dev.7](https://github.com/mogenius/mocli/compare/v1.8.2-dev.6...v1.8.2-dev.7) (2025-11-25)
+
+
+### Bug Fixes
+
+* build fix. ([c74ab71](https://github.com/mogenius/mocli/commit/c74ab71e3434c520acdb875deb40a6ff3193b09d))
+* **deps:** update module github.com/go-playground/validator/v10 to v10.28.0 ([37a09d0](https://github.com/mogenius/mocli/commit/37a09d01042158b4b4f085787c0ef4724949bd9a))
+* **deps:** update module k8s.io/client-go to v0.34.2 ([1c77124](https://github.com/mogenius/mocli/commit/1c77124f26eea1decf87461eb29bfdf91ff7c841))
+
+### [1.8.2-dev.7](https://github.com/mogenius/mocli/compare/v1.8.2-dev.6...v1.8.2-dev.7) (2025-11-20)
+
+
+### Bug Fixes
+
+* **deps:** update module github.com/go-playground/validator/v10 to v10.28.0 ([37a09d0](https://github.com/mogenius/mocli/commit/37a09d01042158b4b4f085787c0ef4724949bd9a))
+* **deps:** update module k8s.io/client-go to v0.34.2 ([1c77124](https://github.com/mogenius/mocli/commit/1c77124f26eea1decf87461eb29bfdf91ff7c841))
+
+### [1.8.2-dev.6](https://github.com/mogenius/mocli/compare/v1.8.2-dev.5...v1.8.2-dev.6) (2025-11-20)
+
+
+### Bug Fixes
+
+* **deps:** update module github.com/charmbracelet/glamour to v0.10.0 ([94eeb83](https://github.com/mogenius/mocli/commit/94eeb836540ab9cebaad96d552ffc5b0c3ff3346))
+
+### [1.8.2-dev.5](https://github.com/mogenius/mocli/compare/v1.8.2-dev.4...v1.8.2-dev.5) (2025-11-20)
+
+
+### Bug Fixes
+
+* **deps:** update module golang.org/x/sys to v0.38.0 ([7d5566a](https://github.com/mogenius/mocli/commit/7d5566a46861411645d195beef3972b9b6f37281))
+
+### [1.8.2-dev.4](https://github.com/mogenius/mocli/compare/v1.8.2-dev.3...v1.8.2-dev.4) (2025-11-20)
+
+
+### Bug Fixes
+
+* **deps:** update module github.com/olekukonko/tablewriter to v1.1.1 ([1437805](https://github.com/mogenius/mocli/commit/1437805ae84b8edf7caba5f66d0e0ed72c267a4d))
+
+### [1.8.2-dev.3](https://github.com/mogenius/mocli/compare/v1.8.2-dev.2...v1.8.2-dev.3) (2025-11-17)
+
+
+### Bug Fixes
+
+* build fix. ([9788518](https://github.com/mogenius/mocli/commit/978851841f9b0121bfb033cdded4060cb0ca433b))
+* **deps:** update module github.com/fatih/color to v1.18.0 ([b7879d3](https://github.com/mogenius/mocli/commit/b7879d330d1835f1194186ba8f8c252eeb06b6b1))
+* **deps:** update module github.com/gin-contrib/cors to v1.7.6 ([bd52220](https://github.com/mogenius/mocli/commit/bd522204855ddd892061944fb4bb675196a06a08))
+* merge develop. ([bdd9319](https://github.com/mogenius/mocli/commit/bdd9319279133ea4dd924c1a4167df1d26a72430))
+
 ### [1.8.2-dev.2](https://github.com/mogenius/mocli/compare/v1.8.2-dev.1...v1.8.2-dev.2) (2025-05-03)
 
 
