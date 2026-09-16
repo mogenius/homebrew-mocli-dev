@@ -2,7 +2,7 @@ class MocliDev < Formula
   desc "View your mogenius account in style from your CLI environment! [dev]"
   homepage "https://www.mogenius.com"
   
-  version "1.15.0-dev.29"
+  version "1.15.0-dev.32"
   license "MIT"
 
   test do
@@ -10,30 +10,30 @@ class MocliDev < Formula
 
   on_macos do
     if Hardware::CPU.arm?
-      url "https://github.com/mogenius/homebrew-mocli-dev/releases/download/v1.15.0-dev.29/mocli-dev-v1.15.0-dev.29-darwin-arm64.tar.gz"
-      sha256 "971b2ccddd679bbc2624162cdcb934ececddec9ef26740871566f5725a9f3c57"
+      url "https://github.com/mogenius/homebrew-mocli-dev/releases/download/v1.15.0-dev.32/mocli-dev-v1.15.0-dev.32-darwin-arm64.tar.gz"
+      sha256 "c987f069ae908e3a377c3a4f157f51f742e68b5efbfb89e56b37f056301bd116"
     elsif Hardware::CPU.intel?
-      url "https://github.com/mogenius/homebrew-mocli-dev/releases/download/v1.15.0-dev.29/mocli-dev-v1.15.0-dev.29-darwin-amd64.tar.gz"
-      sha256 "e6c91d4f30358db0e8fcb2bc9918fab87fa9e7089777e67f13c93bc589edadee"
+      url "https://github.com/mogenius/homebrew-mocli-dev/releases/download/v1.15.0-dev.32/mocli-dev-v1.15.0-dev.32-darwin-amd64.tar.gz"
+      sha256 "e091516482862cd822b9deb6b07f146e25c596a559e9ac6c2b48afd9831c806f"
     end
   end
 
   on_linux do
     if Hardware::CPU.intel?
       if Hardware::CPU.is_64_bit?
-        url "https://github.com/mogenius/homebrew-mocli-dev/releases/download/v1.15.0-dev.29/mocli-dev-v1.15.0-dev.29-linux-amd64.tar.gz"
-        sha256 "f533811cdd29149ff487eb6181ba8d06d4105a038e51bb38e40f3bf4dd1b7b26"
+        url "https://github.com/mogenius/homebrew-mocli-dev/releases/download/v1.15.0-dev.32/mocli-dev-v1.15.0-dev.32-linux-amd64.tar.gz"
+        sha256 "d8ab44d1a3b2fa7d7b07a8972f2d6a51e2e21d1f46d0a566c7a9896008708926"
       else
-        url "https://github.com/mogenius/homebrew-mocli-dev/releases/download/v1.15.0-dev.29/mocli-dev-v1.15.0-dev.29-linux-386.tar.gz"
-        sha256 "390a7fa207a190daede8caa10832fce5830132fd613359ce4ac8d3cce1aa69d0"
+        url "https://github.com/mogenius/homebrew-mocli-dev/releases/download/v1.15.0-dev.32/mocli-dev-v1.15.0-dev.32-linux-386.tar.gz"
+        sha256 "26c07db368c2e072fbaaafba137943a1d2a4d2f2dd21826e58f8fa1e8e582202"
       end
     elsif Hardware::CPU.arm?
       if Hardware::CPU.is_64_bit?
-        url "https://github.com/mogenius/homebrew-mocli-dev/releases/download/v1.15.0-dev.29/mocli-dev-v1.15.0-dev.29-linux-arm64.tar.gz"
-        sha256 "46caa735fc8881050aabcf16d5de7aa7b07759656f5674777059137516d9484e"
+        url "https://github.com/mogenius/homebrew-mocli-dev/releases/download/v1.15.0-dev.32/mocli-dev-v1.15.0-dev.32-linux-arm64.tar.gz"
+        sha256 "50f1dec94c116280555aee37bd2d4f4ecf5393a9736dd81953f7d470a6c75c56"
       else
-        url "https://github.com/mogenius/homebrew-mocli-dev/releases/download/v1.15.0-dev.29/mocli-dev-v1.15.0-dev.29-linux-arm.tar.gz"
-        sha256 "1be679151ff7bfce216f5eb679f1e2c7b0908731c4fbb4a5304bcac3cc0e2c56"
+        url "https://github.com/mogenius/homebrew-mocli-dev/releases/download/v1.15.0-dev.32/mocli-dev-v1.15.0-dev.32-linux-arm.tar.gz"
+        sha256 "31c20fecbac0a61fb1c0aafb4d91e4cdab39b2467ecc30a5d0792df3304af831"
       end
     end
   end
@@ -42,27 +42,27 @@ class MocliDev < Formula
   if OS.mac?
     if Hardware::CPU.arm?
       # Installation steps for macOS ARM64
-      bin.install "mocli-dev-v1.15.0-dev.29-darwin-arm64" => "mocli-dev"
+      bin.install "mocli-dev-v1.15.0-dev.32-darwin-arm64" => "mocli-dev"
     elsif Hardware::CPU.intel?
       # Installation steps for macOS AMD64
-      bin.install "mocli-dev-v1.15.0-dev.29-darwin-amd64" => "mocli-dev"
+      bin.install "mocli-dev-v1.15.0-dev.32-darwin-amd64" => "mocli-dev"
     end
   elsif OS.linux?
     if Hardware::CPU.intel?
       if Hardware::CPU.is_64_bit?
         # Installation steps for Linux AMD64
-        bin.install "mocli-dev-v1.15.0-dev.29-linux-amd64" => "mocli-dev"
+        bin.install "mocli-dev-v1.15.0-dev.32-linux-amd64" => "mocli-dev"
       else
         # Installation steps for Linux 386
-        bin.install "mocli-dev-v1.15.0-dev.29-linux-386" => "mocli-dev"
+        bin.install "mocli-dev-v1.15.0-dev.32-linux-386" => "mocli-dev"
       end
     elsif Hardware::CPU.arm?
       if Hardware::CPU.is_64_bit?
         # Installation steps for Linux ARM64
-        bin.install "mocli-dev-v1.15.0-dev.29-linux-arm64" => "mocli-dev"
+        bin.install "mocli-dev-v1.15.0-dev.32-linux-arm64" => "mocli-dev"
       else
         # Installation steps for Linux ARM
-        bin.install "mocli-dev-v1.15.0-dev.29-linux-arm" => "mocli-dev"
+        bin.install "mocli-dev-v1.15.0-dev.32-linux-arm" => "mocli-dev"
       end
     end
   end
